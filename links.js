@@ -18,14 +18,6 @@ ScrollReveal().reveal('.card',
       }
 })
 
-ScrollReveal().reveal('.container3 p', 
-{ duration: 300,
-    rotate:{
-        x:0,
-        y:80,
-        z:0,
-      }
-})
 
 ScrollReveal().reveal('.mySwiper', 
 { duration: 1500,
