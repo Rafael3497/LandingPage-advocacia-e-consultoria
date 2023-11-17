@@ -814,7 +814,7 @@ footer .social a:hover {
     display: block;
     background-image: none;
     height: 610px;
-    width: 400px;
+    width: 360px;
   }
 
   .container3 img {
@@ -828,8 +828,8 @@ footer .social a:hover {
     margin: 0;
     top: -6%;
     left: -12%;
-    font-size: 22px;
-    font-size: 1.4rem;
+    font-size: 20px;
+    font-size: 1.2rem;
   }
   
   .container3 h1{
