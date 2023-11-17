@@ -36,11 +36,3 @@ ScrollReveal().reveal('.mySwiper',
       }
 })
 
-ScrollReveal().reveal('.container3 h1', 
-{ duration: 300,
-    rotate:{
-        x:100,
-        y:0,
-        z:0,
-      }
-})
