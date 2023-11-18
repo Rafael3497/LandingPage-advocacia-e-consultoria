@@ -649,6 +649,7 @@ nav .icon-close {
   text-indent: 2.9rem;
   margin-bottom: 1.5rem;
   color: var(--text-color-dark);
+  text-align: center;
 }
 #testimonials blockquote p span {
   font: 700 2.8rem serif;
